@@ -1,0 +1,77 @@
+C:\Progra 1\CORVELSA\x64\Debug\CORVELSA.vcxproj.AssemblyReference.cache
+C:\Progra 1\CORVELSA\x64\Debug\CORVELSA.vcxproj.SuggestedBindingRedirects.cache
+C:\Progra 1\CORVELSA\x64\Debug\CORVELSA.FormPrincipal.resources
+C:\Progra 1\CORVELSA\x64\Debug\CORVELSA.vcxproj.GenerateResource.cache
+C:\Progra 1\CORVELSA\x64\Debug\CORVELSA.exe
+C:\Progra 1\CORVELSA\x64\Debug\CORVELSA.contraseña.resources
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Final Progra\CORVELSA (1)\CORVELSA\x64\Debug\CORVELSA.vcxproj.AssemblyReference.cache
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Final Progra\CORVELSA (1)\CORVELSA\x64\Debug\CORVELSA.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Final Progra\CORVELSA (1)\CORVELSA\x64\Debug\CORVELSA.contraseña.resources
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Final Progra\CORVELSA (1)\CORVELSA\x64\Debug\CORVELSA.FormPrincipal.resources
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Final Progra\CORVELSA (1)\CORVELSA\x64\Debug\CORVELSA.vcxproj.GenerateResource.cache
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Final Progra\CORVELSA (1)\CORVELSA\x64\Debug\CORVELSA.exe
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Final Progra\CORVELSA (1)\CORVELSA\x64\Debug\CORVELSA.Empleados.resources
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Final Progra\CORVELSA (1)\CORVELSA\x64\Debug\CORVELSA.inventario.resources
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Final Progra\CORVELSA (1)\CORVELSA\x64\Debug\CORVELSA.ventas.resources
+C:\Progra 1\corvelsasasasasasasas\CORVELSA\x64\Debug\CORVELSA.vcxproj.AssemblyReference.cache
+C:\Progra 1\corvelsasasasasasasas\CORVELSA\x64\Debug\CORVELSA.vcxproj.SuggestedBindingRedirects.cache
+C:\Progra 1\corvelsasasasasasasas\CORVELSA\x64\Debug\CORVELSA.contraseña.resources
+C:\Progra 1\corvelsasasasasasasas\CORVELSA\x64\Debug\CORVELSA.Empleados.resources
+C:\Progra 1\corvelsasasasasasasas\CORVELSA\x64\Debug\CORVELSA.FormPrincipal.resources
+C:\Progra 1\corvelsasasasasasasas\CORVELSA\x64\Debug\CORVELSA.inventario.resources
+C:\Progra 1\corvelsasasasasasasas\CORVELSA\x64\Debug\CORVELSA.ventas.resources
+C:\Progra 1\corvelsasasasasasasas\CORVELSA\x64\Debug\CORVELSA.vcxproj.GenerateResource.cache
+C:\Progra 1\corvelsasasasasasasas\CORVELSA\x64\Debug\CORVELSA.exe
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Final Progra\23demayo\corvelsasasasasasasas\CORVELSA\x64\Debug\CORVELSA.vcxproj.AssemblyReference.cache
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Final Progra\23demayo\corvelsasasasasasasas\CORVELSA\x64\Debug\CORVELSA.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Final Progra\23demayo\corvelsasasasasasasas\CORVELSA\x64\Debug\CORVELSA.contraseña.resources
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Final Progra\23demayo\corvelsasasasasasasas\CORVELSA\x64\Debug\CORVELSA.Empleados.resources
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Final Progra\23demayo\corvelsasasasasasasas\CORVELSA\x64\Debug\CORVELSA.FormPrincipal.resources
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Final Progra\23demayo\corvelsasasasasasasas\CORVELSA\x64\Debug\CORVELSA.inventario.resources
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Final Progra\23demayo\corvelsasasasasasasas\CORVELSA\x64\Debug\CORVELSA.ventas.resources
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Final Progra\23demayo\corvelsasasasasasasas\CORVELSA\x64\Debug\CORVELSA.vcxproj.GenerateResource.cache
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Final Progra\23demayo\corvelsasasasasasasas\CORVELSA\x64\Debug\CORVELSA.exe
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Final Progra\23demayo\23demayo\corvelsasasasasasasas\CORVELSA\x64\Debug\CORVELSA.vcxproj.AssemblyReference.cache
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Final Progra\23demayo\23demayo\corvelsasasasasasasas\CORVELSA\x64\Debug\CORVELSA.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Final Progra\23demayo\23demayo\corvelsasasasasasasas\CORVELSA\x64\Debug\CORVELSA.contraseña.resources
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Final Progra\23demayo\23demayo\corvelsasasasasasasas\CORVELSA\x64\Debug\CORVELSA.Empleados.resources
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Final Progra\23demayo\23demayo\corvelsasasasasasasas\CORVELSA\x64\Debug\CORVELSA.FormPrincipal.resources
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Final Progra\23demayo\23demayo\corvelsasasasasasasas\CORVELSA\x64\Debug\CORVELSA.inventario.resources
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Final Progra\23demayo\23demayo\corvelsasasasasasasas\CORVELSA\x64\Debug\CORVELSA.ventas.resources
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Final Progra\23demayo\23demayo\corvelsasasasasasasas\CORVELSA\x64\Debug\CORVELSA.vcxproj.GenerateResource.cache
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Final Progra\23demayo\23demayo\corvelsasasasasasasas\CORVELSA\x64\Debug\CORVELSA.exe
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Final Progra\23demayo\23demayo\corvelsasasasasasasas\CORVELSA\x64\Debug\CORVELSA.agregarproducto.resources
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Final Progra\23demayo\23demayo\corvelsasasasasasasas\CORVELSA\x64\Debug\CORVELSA.verempleados.resources
+C:\Users\aleja\OneDrive\Escritorio\26DEMAYOPROGRAAAAAAAAAAAA\26demayo\CORVELSA\x64\Debug\CORVELSA.vcxproj.AssemblyReference.cache
+C:\Users\aleja\OneDrive\Escritorio\26DEMAYOPROGRAAAAAAAAAAAA\26demayo\CORVELSA\x64\Debug\CORVELSA.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\aleja\OneDrive\Escritorio\26DEMAYOPROGRAAAAAAAAAAAA\26demayo\CORVELSA\x64\Debug\CORVELSA.agregarproducto.resources
+C:\Users\aleja\OneDrive\Escritorio\26DEMAYOPROGRAAAAAAAAAAAA\26demayo\CORVELSA\x64\Debug\CORVELSA.contraseña.resources
+C:\Users\aleja\OneDrive\Escritorio\26DEMAYOPROGRAAAAAAAAAAAA\26demayo\CORVELSA\x64\Debug\CORVELSA.Empleados.resources
+C:\Users\aleja\OneDrive\Escritorio\26DEMAYOPROGRAAAAAAAAAAAA\26demayo\CORVELSA\x64\Debug\CORVELSA.FormPrincipal.resources
+C:\Users\aleja\OneDrive\Escritorio\26DEMAYOPROGRAAAAAAAAAAAA\26demayo\CORVELSA\x64\Debug\CORVELSA.inventario.resources
+C:\Users\aleja\OneDrive\Escritorio\26DEMAYOPROGRAAAAAAAAAAAA\26demayo\CORVELSA\x64\Debug\CORVELSA.ventas.resources
+C:\Users\aleja\OneDrive\Escritorio\26DEMAYOPROGRAAAAAAAAAAAA\26demayo\CORVELSA\x64\Debug\CORVELSA.verempleados.resources
+C:\Users\aleja\OneDrive\Escritorio\26DEMAYOPROGRAAAAAAAAAAAA\26demayo\CORVELSA\x64\Debug\CORVELSA.vcxproj.GenerateResource.cache
+C:\Users\aleja\OneDrive\Escritorio\26DEMAYOPROGRAAAAAAAAAAAA\26demayo\CORVELSA\x64\Debug\CORVELSA.exe
+C:\Users\DELL\Desktop\TareasFotos\Nueva carpeta\CORVELSA\x64\Debug\CORVELSA.vcxproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\TareasFotos\Nueva carpeta\CORVELSA\x64\Debug\CORVELSA.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\TareasFotos\Nueva carpeta\CORVELSA\x64\Debug\CORVELSA.agregarproducto.resources
+C:\Users\DELL\Desktop\TareasFotos\Nueva carpeta\CORVELSA\x64\Debug\CORVELSA.contraseña.resources
+C:\Users\DELL\Desktop\TareasFotos\Nueva carpeta\CORVELSA\x64\Debug\CORVELSA.Empleados.resources
+C:\Users\DELL\Desktop\TareasFotos\Nueva carpeta\CORVELSA\x64\Debug\CORVELSA.FormPrincipal.resources
+C:\Users\DELL\Desktop\TareasFotos\Nueva carpeta\CORVELSA\x64\Debug\CORVELSA.inventario.resources
+C:\Users\DELL\Desktop\TareasFotos\Nueva carpeta\CORVELSA\x64\Debug\CORVELSA.ventas.resources
+C:\Users\DELL\Desktop\TareasFotos\Nueva carpeta\CORVELSA\x64\Debug\CORVELSA.verempleados.resources
+C:\Users\DELL\Desktop\TareasFotos\Nueva carpeta\CORVELSA\x64\Debug\CORVELSA.vcxproj.GenerateResource.cache
+C:\Users\DELL\Desktop\TareasFotos\Nueva carpeta\CORVELSA\x64\Debug\CORVELSA.exe
+C:\Progra 1\PROYECTOAJA\CORVELSA\x64\Debug\CORVELSA.vcxproj.AssemblyReference.cache
+C:\Progra 1\PROYECTOAJA\CORVELSA\x64\Debug\CORVELSA.vcxproj.SuggestedBindingRedirects.cache
+C:\Progra 1\PROYECTOAJA\CORVELSA\x64\Debug\CORVELSA.agregarproducto.resources
+C:\Progra 1\PROYECTOAJA\CORVELSA\x64\Debug\CORVELSA.contraseña.resources
+C:\Progra 1\PROYECTOAJA\CORVELSA\x64\Debug\CORVELSA.Empleados.resources
+C:\Progra 1\PROYECTOAJA\CORVELSA\x64\Debug\CORVELSA.FormPrincipal.resources
+C:\Progra 1\PROYECTOAJA\CORVELSA\x64\Debug\CORVELSA.inventario.resources
+C:\Progra 1\PROYECTOAJA\CORVELSA\x64\Debug\CORVELSA.ventas.resources
+C:\Progra 1\PROYECTOAJA\CORVELSA\x64\Debug\CORVELSA.verempleados.resources
+C:\Progra 1\PROYECTOAJA\CORVELSA\x64\Debug\CORVELSA.vcxproj.GenerateResource.cache
+C:\Progra 1\PROYECTOAJA\CORVELSA\x64\Debug\CORVELSA.exe

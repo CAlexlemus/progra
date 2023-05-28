@@ -1,0 +1,9 @@
+﻿  FormPrincipal.cpp
+C:\Progra 1\PROYECTOAJA\CORVELSA\Empleados.h(307,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Progra 1\PROYECTOAJA\CORVELSA\Empleados.h(306,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Progra 1\PROYECTOAJA\CORVELSA\Empleados.h(305,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Progra 1\PROYECTOAJA\CORVELSA\Empleados.h(304,20): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+  ventas.cpp
+  Generando código...
+  agregarproducto.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  CORVELSA.vcxproj -> C:\Progra 1\PROYECTOAJA\CORVELSA\x64\Debug\CORVELSA.exe
